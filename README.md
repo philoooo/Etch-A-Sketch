@@ -1,5 +1,14 @@
 <h1 align="center"> Etch-A-Sketch </h1>
 
+<div align="center">
+<img src="https://github.com/philoooo/Etch-A-Sketch/blob/main/Screenshot%202025-10-30%20at%208.44.54%20PM.png" width="400" >
+</div>
+
+<h1></h1>
+
+A fun little Python Turtle Etch-A-Sketch! Control the turtle with your keyboard (W/A/S/D) to draw on the canvas — press C to reset and start again.
+
+
 ```
 from turtle import Turtle, Screen
 
